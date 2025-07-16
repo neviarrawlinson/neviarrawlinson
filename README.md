@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Neviar Rawlinson!
 
-I'm an **IT Governance & Process Analyst** passionate about technology, process improvement, GRC (Governance, Risk, and Compliance), and cybersecurity.
+**Turning complex governance challenges into practical solutions** 
 
-I focus on building tools, processes, and solutions that enhance organizational compliance, efficiency, and risk management.
-
+My work focuses on building change management and risk management workflows that empoer organizations to stay compliant and resilient in fast moving environments. By applying frameworks such as ITIL, COBIT, and ISO 27001, I design tools and processes that drive efficiency, strengthen decision making, and simplify day to day operations for both technical and business teams. 
 ---
 
 ## 🚀 My Recent Projects
