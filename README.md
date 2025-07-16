@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Neviar Rawlinson!
 
-**Turning complex governance challenges into practical solutions** 
+**I turn complex governance challenges into clear, workable solutions.**  
 
-My work focuses on building change management and risk management workflows that empoer organizations to stay compliant and resilient in fast moving environments. By applying frameworks such as ITIL, COBIT, and ISO 27001, I design tools and processes that drive efficiency, strengthen decision making, and simplify day to day operations for both technical and business teams. 
+Whether it’s streamlining change management or shaping risk management workflows, my focus is on helping teams stay compliant, secure, and able to move quickly with confidence. With an MBA in IT Management and certifications like CSM and CSPO, I draw on frameworks such as ITIL, COBIT, and ISO 27001 to build tools and processes that make operations more efficient and day‑to‑day work easier for both technical and business teams.
+
 ---
 
 ## 🚀 My Recent Projects
