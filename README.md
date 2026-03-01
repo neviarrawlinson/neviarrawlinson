@@ -31,12 +31,22 @@ I host **Cyber Risk, Explained**, a podcast where I break down cybersecurity, go
 
 ---
 
+## 📰 Newsletter: Governance, Explained
+
+I publish **Governance, Explained**, a LinkedIn newsletter focused on practical IT governance, GRC engineering, cybersecurity risk, and real-world implementation strategies.
+
+🔔 Subscribe here:  
+[Follow Governance, Explained on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7411889194886881280)
+
+---
+
 ## ✍🏽 Writing & Thought Leadership
 
 I regularly publish content on governance, GRC careers, cybersecurity, and process design:
 
 - 📝 [Hashnode Blog](https://neviarrawlinson.hashnode.dev/)
 - 📰 [Medium](https://medium.com/@neviarrawlinson)
+- 📰 (LinkedIn)(https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7411889194886881280)
 
 My writing focuses on practical implementation — not theory alone.
 
