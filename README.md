@@ -64,6 +64,8 @@ https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=741188919488
 - LinkedIn: https://www.linkedin.com/in/neviarr/
 - New Book: The GRC Career Changer's 90-Day Action Plan → 
 https://www.amazon.com/dp/B0H2XWJ72L
+- Free Resource: Plain-Language GRC Glossary → 
+https://neviar.gumroad.com/l/grc-glossary
 
 My content focuses on how governance actually works inside organizations.
 
