@@ -71,6 +71,25 @@ My content focuses on how governance actually works inside organizations.
 
 ---
 
+## 🛒 GRC Resources
+
+| Resource | Platform | Price |
+|---|---|---|
+| [Plain-Language GRC Glossary](https://neviar.gumroad.com/l/grc-glossary) | Gumroad | Free |
+| [GRC Career Roadmap](https://buymeacoffee.com/neviarrawlinson/extras) | Buy Me a Coffee | Free |
+| [GRC Interview Prep Kit](https://neviar.gumroad.com/l/grc-interview-prep-kit) | Gumroad | $12 |
+| [GRC Policy Templates Bundle](https://neviar.gumroad.com/l/grc-policy-templates-bundle) | Gumroad | $19 |
+| [The GRC Career Changer's 90-Day Action Plan](https://www.amazon.com/dp/B0H2XWJ72L) | Amazon | $9.99 |
+
+---
+
+## 📬 Stay Connected
+
+- 📰 Newsletter: [Governance, Explained on LinkedIn](https://www.linkedin.com/in/neviarr/)
+- 📧 Substack: [grcexplained.substack.com](https://grcexplained.substack.com)
+- 🌐 Website: [grcexplained.com](https://grcexplained.com)
+- ☕ Shop: [buymeacoffee.com/neviarrawlinson](https://buymeacoffee.com/neviarrawlinson/extras)
+
 ## 🧠 Core Focus Areas
 
 - IT Governance & Control Design  
